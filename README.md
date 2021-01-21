@@ -73,3 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Translate section 
 
 This api can be used on localhost:3000 only. 
+# widgets
